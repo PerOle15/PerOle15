@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @PerOle15
 - 👀 I’m interested in coding, physics, chemistry, biology and nature
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript & C++
 
 <!---
 PerOle15/PerOle15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
